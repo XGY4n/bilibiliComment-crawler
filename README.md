@@ -1,4 +1,4 @@
-# release 有直接用的.exe
+# 有直接可用的.exe
  b站评论爬虫输入bv号爬取到.txt中
 #使用
 #import requests
